@@ -13,6 +13,8 @@ Data Scientist | Data Analyst | Machine Learning Engineer
 
 [Prediction and Analysis of UK used Car Prices](https://github.com/Ekeopara-Praise/UK_Car_Price_Analysis)
 
+[Target Customer Predictipn](https://github.com/Ekeopara-Praise/Target_Customer_Prediction)
+
 [Heart Attack prediction](https://github.com/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
 
 [Outlier Detection Analysis](https://github.com/Ekeopara-Praise/Outlier_Handling_Analysis/blob/main/Outlier_Handling%20.ipynb)
