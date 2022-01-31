@@ -17,6 +17,8 @@ Data Scientist | Data Analyst | Machine Learning Engineer
 
 [Heart Attack prediction](https://github.com/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
 
+[Customer Monthly Amount Spent Prediction](https://github.com/Ekeopara-Praise/Customer_MonthlyAmountSpent_Prediction)
+
 [Outlier Detection Analysis](https://github.com/Ekeopara-Praise/Outlier_Handling_Analysis/blob/main/Outlier_Handling%20.ipynb)
 
 [ROP Prediction](https://github.com/Ekeopara-Praise/Petroleum-Engineering/blob/master/ROP_Prediction_Praise.ipynb)
