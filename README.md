@@ -11,13 +11,15 @@ Data Scientist | Data Analyst | Machine Learning Engineer
 
 <h2 align="center">Sample Projects 💻</h2>
 
-[1. Heart Attack prediction](https://github.com/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
+[Prediction and Analysis of UK used Car Prices](https://github.com/Ekeopara-Praise/UK_Car_Price_Analysis)
 
-[2. Outlier Detection Analysis](https://github.com/Ekeopara-Praise/Outlier_Handling_Analysis/blob/main/Outlier_Handling%20.ipynb)
+[Heart Attack prediction](https://github.com/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
 
-[3. ROP Prediction](https://github.com/Ekeopara-Praise/Petroleum-Engineering/blob/master/ROP_Prediction_Praise.ipynb)
+[Outlier Detection Analysis](https://github.com/Ekeopara-Praise/Outlier_Handling_Analysis/blob/main/Outlier_Handling%20.ipynb)
 
-[4. Marketing Strategy Optimization Analytics for Sprocket Central Pty Ltd](https://github.com/Ekeopara-Praise/Data-Science-and-Analytics/blob/master/KPMG%20INTERNSHIP/TASK2-%20Data%20Insight/Data%20Analysis%20in%20Python.ipynb)
+[ROP Prediction](https://github.com/Ekeopara-Praise/Petroleum-Engineering/blob/master/ROP_Prediction_Praise.ipynb)
+
+[Marketing Strategy Optimization Analytics for Sprocket Central Pty Ltd](https://github.com/Ekeopara-Praise/Data-Science-and-Analytics/blob/master/KPMG%20INTERNSHIP/TASK2-%20Data%20Insight/Data%20Analysis%20in%20Python.ipynb)
 
 **In Progress**
 * Handling Concept Drift in Machine Learning 
