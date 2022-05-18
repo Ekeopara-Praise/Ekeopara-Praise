@@ -15,7 +15,7 @@ Data Scientist | Data Analyst | Machine Learning Engineer
 
 [Target Customer Prediction](https://github.com/Ekeopara-Praise/Target_Customer_Prediction)
 
-[Heart Attack prediction](https://github.com/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
+[Heart Attack prediction](https://nbviewer.org/github/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
 
 [Customer Monthly Amount Spent Prediction](https://github.com/Ekeopara-Praise/Customer_MonthlyAmountSpent_Prediction)
 
