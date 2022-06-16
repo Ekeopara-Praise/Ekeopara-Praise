@@ -86,6 +86,7 @@ to help solve problems for social good and improve the overall standard of livin
 </p>
 <br />
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4E22AQHaYzQSld7kCg/feedshare-shrink_2048_1536/0/1639463543407?e=1646265600&v=beta&t=1fFsDWQoVyDjUXbghzytbsz-Hq57-HQMKyd7y6PlIrg" alt="html5" width="500" height="500"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQEWG0TzQHjceg/feedshare-shrink_800/0/1626761565897?e=1646265600&v=beta&t=G7PlOOQmu_8le8Xb12bVIiPrN_FGxLBUNN5AEWNByc4" alt="html5" width="500" height="500"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://media-exp1.licdn.com/dms/image/C4D22AQE9btb2kVRNtw/feedshare-shrink_800/0/1598796072736?e=1646265600&v=beta&t=RWbMh8cyauq2J2UtE4w44vO5LO4GQ_vVex_uf68R918" alt="html5" width="500" height="500"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1598796072736.jpg" alt="html5" width="500" height="500"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1626761565897.jpg" alt="html5" width="500" height="500"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1639463543407.jpg" alt="html5" width="500" height="500"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1647000775371.jpg" alt="html5" width="500" height="500"/> </a>
