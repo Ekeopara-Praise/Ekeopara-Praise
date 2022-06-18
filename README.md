@@ -11,25 +11,38 @@ Data Scientist | Data Analyst | Machine Learning Engineer
 
 <h2 align="center">Sample Projects 💻</h2>
 
-[Prediction and Analysis of UK used Car Prices](https://github.com/Ekeopara-Praise/UK_Car_Price_Analysis)
+## Oil & Gas 
+[1. Well Log Analysis in Python](https://github.com/Ekeopara-Praise/Well_Log_Analysis)
 
-[Target Customer Prediction](https://github.com/Ekeopara-Praise/Target_Customer_Prediction)
+[2. Excel Python Automation for Reservoir Simulation](https://github.com/Ekeopara-Praise/PyExcel_Automation)
 
-[Heart Attack prediction](https://nbviewer.org/github/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
+[3. Lithology Prediction (Supervised Learning)](https://github.com/Ekeopara-Praise/Lithology_Prediction)
 
-[Customer Monthly Amount Spent Prediction](https://github.com/Ekeopara-Praise/Customer_MonthlyAmountSpent_Prediction)
+[4. Lithology Identification for Geothermal Resources using Machine Learning (Unsupervised)](https://github.com/Ekeopara-Praise/Lithology_Identification)
 
-[Outlier Detection Analysis](https://github.com/Ekeopara-Praise/Outlier_Handling_Analysis/blob/main/Outlier_Handling%20.ipynb)
-
-[ROP Prediction](https://github.com/Ekeopara-Praise/Petroleum-Engineering/blob/master/ROP_Prediction_Praise.ipynb)
-
-[Marketing Strategy Optimization Analytics for Sprocket Central Pty Ltd](https://github.com/Ekeopara-Praise/Data-Science-and-Analytics/blob/master/KPMG%20INTERNSHIP/TASK2-%20Data%20Insight/Data%20Analysis%20in%20Python.ipynb)
+[5. ROP Prediction](https://github.com/Ekeopara-Praise/Petroleum-Engineering/blob/master/ROP_Prediction_Praise.ipynb)
 
 **In Progress**
-* Handling Concept Drift in Machine Learning 
-* Prediction of CO2 emmission for automobiles
-* Building a Hybrid Model for Lithological Identification
-* Etc.
+* 1. Estimation of Oil Recovery for Steam EOR
+* 2. Estimation of Steam Displacement Performance (Machine Learning)
+
+
+## Business & Statistics
+
+[1. Prediction and Analysis of UK used Car Prices](https://github.com/Ekeopara-Praise/UK_Car_Price_Analysis)
+
+[2. Target Customer Prediction](https://github.com/Ekeopara-Praise/Target_Customer_Prediction)
+
+[3. Customer Monthly Amount Spent Prediction](https://github.com/Ekeopara-Praise/Customer_MonthlyAmountSpent_Prediction)
+
+[4. Outlier Detection Analysis](https://github.com/Ekeopara-Praise/Outlier_Handling_Analysis/blob/main/Outlier_Handling%20.ipynb)
+
+[5, Marketing Strategy Optimization Analytics for Sprocket Central Pty Ltd](https://github.com/Ekeopara-Praise/Data-Science-and-Analytics/blob/master/KPMG%20INTERNSHIP/TASK2-%20Data%20Insight/Data%20Analysis%20in%20Python.ipynb)
+
+## Healthcare 
+[1. Heart Attack prediction](https://nbviewer.org/github/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
+
+[2. Patients No-Show Appointment](https://github.com/Ekeopara-Praise/Data-Analyst-Nanodegree-Course/blob/master/PART%201%20Introduction%20to%20Data%20Analysis/Project%20I/Investigate_a_Dataset.ipynb)
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
