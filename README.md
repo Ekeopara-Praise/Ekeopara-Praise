@@ -49,7 +49,7 @@ Data Scientist | Data Analyst | Machine Learning Engineer
 Timezone: West African Time (WAT)
 </p>
 <br />
-<p>I am a Bachelor of Engineering student with 3+ years of experience in Data Science and other relevant skills in Python programming language and Machine Learning, with stronger applications in the;
+<p>I am a Bachelor of Engineering holder with 3+ years of experience in Data Science and other relevant skills in Python programming language and Machine Learning, with stronger applications in the;
   
 * healthcare
 * social science
