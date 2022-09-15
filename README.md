@@ -11,7 +11,7 @@ Data Scientist | Data Analyst | Machine Learning Engineer
 
 <h2 align="center">Sample Projects 💻</h2>
 
-## Oil & Gas 
+## Energy [Petroleum & Geothermal]
 [1. Well Log Analysis in Python](https://github.com/Ekeopara-Praise/Well_Log_Analysis)
 
 [2. Excel Python Automation for Reservoir Simulation](https://github.com/Ekeopara-Praise/PyExcel_Automation)
@@ -39,10 +39,6 @@ Data Scientist | Data Analyst | Machine Learning Engineer
 
 [5, Marketing Strategy Optimization Analytics for Sprocket Central Pty Ltd](https://github.com/Ekeopara-Praise/Data-Science-and-Analytics/blob/master/KPMG%20INTERNSHIP/TASK2-%20Data%20Insight/Data%20Analysis%20in%20Python.ipynb)
 
-## Healthcare 
-[1. Heart Attack prediction](https://nbviewer.org/github/Ekeopara-Praise/Heart_Attack_Prediction/blob/master/Heart_Attack_Prediction.ipynb)
-
-[2. Patients No-Show Appointment](https://github.com/Ekeopara-Praise/Data-Analyst-Nanodegree-Course/blob/master/PART%201%20Introduction%20to%20Data%20Analysis/Project%20I/Investigate_a_Dataset.ipynb)
 
 <h2 align="center">About me 😇</h2>
 <p align="center">
@@ -51,11 +47,8 @@ Timezone: West African Time (WAT)
 <br />
 <p>I am a Bachelor of Engineering holder with 3+ years of experience in Data Science and other relevant skills in Python programming language and Machine Learning, with stronger applications in the;
   
-* healthcare
-* social science
-* energy (Geothermal, Oil and Gas etc.)
-* education
-* business sectors.
+* Energy (Petroleum & Geothermal)
+* Business sectors.
   
 Seeking for opportunity to learn and leverage Data Science and Machine learning skills
 to help solve problems for social good and improve the overall standard of living.
@@ -95,14 +88,5 @@ to help solve problems for social good and improve the overall standard of livin
 ... [READ MORE](https://www.linkedin.com/in/praiseekeopara)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center"> Talks in Data Science</h3>
-</p>
-<br />
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/WhatsApp%20Image%202022-07-07%20at%202.49.54%20AM.jpeg" alt="html5" width="500" height="500"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1647000775371.jpg" alt="html5" width="500" height="500"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1647864025928.jpg" alt="html5" width="500" height="500"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1639463543407.jpg" alt="html5" width="500" height="500"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1626761565897.jpg" alt="html5" width="500" height="500"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/Ekeopara-Praise/Ekeopara-Praise/blob/main/1598796072736.jpg" alt="html5" width="500" height="500"/> </a>
+
 
